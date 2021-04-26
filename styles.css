@@ -1,0 +1,84 @@
+body{
+    margin: 0 10%;
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+.section {
+    border: solid 3px gray;
+    padding: 20px;
+    margin: 5px auto;
+}
+
+.container-box{
+    display: inline-block;
+    width: 32%;
+    margin: 2px 1px;
+}
+
+.blue{
+    background-color: #2d5dcc;
+}
+
+.blue p{
+    color: white;
+}
+
+.green{
+    background-color: #1bcc4a;
+}
+
+.green p{}
+
+.pink{
+    background-color: #e02d9c;
+}
+
+.orange{
+    background-color: #de8423;
+}
+
+.turqoise{
+    background-color: #1fe0a3;
+}
+
+.beige{
+    background-color: #efd9ca;
+}
+
+#colors div p, h3{
+    text-align: center;
+    font-weight: 600;
+}
+
+#fonts h3{
+    text-decoration: underline;
+}
+
+.karantina{
+    font-family: 'Karantina', cursive;
+}
+
+.antonio{
+    font-family: 'Antonio', sans-serif;
+}
+
+.quicksand{
+    font-family: 'Quicksand', sans-serif;
+}
+
+.rubik {
+    font-family: 'Rubik', sans-serif;
+}
+
+.thin {
+    font-weight: 300;
+}
+
+.normal {
+    font-weight: 400;
+}
+
+.bold {
+    font-weight: 700;
+} 
+
