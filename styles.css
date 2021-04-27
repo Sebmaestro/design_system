@@ -64,10 +64,11 @@ body{
 
 .quicksand{
     font-family: 'Quicksand', sans-serif;
+    font-size: 15px;
 }
 
 .rubik {
-    font-family: 'Rubik', sans-serif;
+    font-family: 'Dancing Script', cursive;
 }
 
 .thin {
@@ -82,3 +83,9 @@ body{
     font-weight: 700;
 } 
 
+#fonts .container-box{
+    width: 40%;
+}
+#fonts .container-box p, h3{
+    text-align: center;
+}
